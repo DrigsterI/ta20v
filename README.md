@@ -1,2 +1,1 @@
-# ta20v
-GitHub lesson
+My first github lesson
